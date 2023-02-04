@@ -1,6 +1,5 @@
 # Deploy and Scale Machine Learning Models with Keras, FastAPI, Redis and Docker Swarm
-Serve a production-ready and scalable Keras-based deep learning model image classification using FastAPI, Redis and Docker Swarm. Based off this [series of blog posts](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/).
-
+Serve a production-ready and scalable Keras-based deep learning model image classification using FastAPI, Redis and Docker-Compose .
 ## How to Use
 
 ### Prerequisites
